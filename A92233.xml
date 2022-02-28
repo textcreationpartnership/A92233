@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons for reviving and continuing the act for the regulation of printing</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92233</idno>
+            <idno type="STC">Wing R511</idno>
+            <idno type="STC">ESTC R229650</idno>
+            <idno type="EEBO-CITATION">99895335</idno>
+            <idno type="PROQUEST">99895335</idno>
+            <idno type="VID">152702</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92233)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152702)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2317:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons for reviving and continuing the act for the regulation of printing</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1693?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Censorship --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-07</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:152702:1" rendition="simple:additions"/>
+            <head>REASONS
+FOR
+Reviving and Continuing the ACT
+FOR THE
+Regulation of PRINTING.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T muſt be agreed, that the Preſs deſerves and needs both <hi>Encouragement</hi> and <hi>Reſtraint;</hi> and Experience hath proved the Uſefulneſs of this Law for both thoſe Pur<g ref="char:EOLhyphen"/>poſes.</p>
+            <p>The Deſign of the Act is,</p>
+            <p>Firſt, To prevent <hi>Seditious, Blaſphemous,</hi> and <hi>Treaſonable</hi> Books, the neceſſity of which Care in the preſent Age is as apparent, as 'twas in the former. The Pre<g ref="char:EOLhyphen"/>amble
+of this Act remains ſtill too true to admit of a denyal: And the ſame, or the like Method for <hi>Licenſing,</hi> and <hi>puniſhing</hi> of unlicens'd Books, hath been pra<g ref="char:EOLhyphen"/>ctiſed
+for near 100 Years paſt, before and after the Reign of K. <hi>James</hi> I.</p>
+            <p>But until this legal Proviſion was made, in contempt of the repeated Orders of the King and Council, and other Courts, unlawful Pamphlets were daily Publiſhed; and the number of
+them would probably ſtill have increaſed, if this Law had not taken care, not only to impoſe and exact Penalties, but to reſtrain the number of Preſſes, and to forbid all private Ones,
+and to facilitate Searches during the Work, which afterwards for the moſt part are fruitleſs and vain, becauſe in all probability the Libel hath then had its Vent, and the Author his end.</p>
+            <p>The Second Deſign and Intent of this Act is,</p>
+            <p>To <hi>encourage</hi> and <hi>preſerve Property</hi> in Books to their Authors and their Aſſigns, and this by enjoyning Entries in a Publick Regiſter, (which is regularly and fairly kept), by Pro<g ref="char:EOLhyphen"/>hibiting
+the Importation of any Books from beyond the Seas which were Printed here before; and laſtly, by aſcertaining the rights of Copies to the Proprietors thereof; which Proviſion
+almoſt in the very ſame words was Eſtabliſhed, not only by Decrees in <hi>Charles</hi> I. time, and long before, but alſo by an Act of Parliament <hi>Sept.</hi> 29. 1649.</p>
+            <p>This Law is not only convenient for Authors of the preſent and future Ages, but juſt even in reſpect of antient Copies, in which a legal Intereſt hath been acquired, and that at
+great Charges; and theſe Intereſts are become the Livelyhood and ſole Eſtate of ſeveral Widows, Fatherleſs Children, and other whole Families.</p>
+            <p>The Myſtery of Printing was firſt introduced into <hi>England</hi> at the Charge of the Crown, and upon increaſe of the number of Artiſts, was Governed by direction of the King, or King
+and Council, and then by Decrees of the Star-Chamber, and then by Acts or Ordinances made in the late Times, and ſince the Reſtoration, by Act of Parliament. But Property in
+Publick or Private Copies, was always preſerv'd entire and free, The Right and Intereſt of the Company of <hi>Stationers,</hi> in Books of Common and Publick Uſe, was lawfully Veſted
+in them before the Reign of King <hi>James</hi> I. ſome of which Copies were purchaſed at great Expence from the <hi>Crown,</hi> ſome from private Perſons, and others bequeathed to them by
+the then Proprietors, and great Stocks were expended and ſtill are laid out to that purpoſe. They are now under Obligations of giving 200 <hi>l. per Annum</hi> to the Poor of the Trade, and this they
+have never failed in, and tho their Stocks have not yielded ſome years above 4 or 5 <hi>per Cent.</hi> yet they have maintained ſeveral Families thereby every Year, who muſt neceſſarily Periſh
+upon the loſs of ſuch Copies, and the failure of the Stock therein.</p>
+            <p>
+               <hi>Object.</hi> Printing is a <hi>Manufacture,</hi> and ought to be as free as any other Trade.</p>
+            <p>
+               <hi>Anſw.</hi> This was never a Free-Trade ſince its firſt Introduction, but always under Regulation; and infinite Inconveniences muſt enſue upon a licentious Uſe of it; and the Policy of
+all Ages from its firſt Practice in <hi>England,</hi> hath been to Govern it by Rules, and under Limits. As to Execution of the Act, in reſpect of Reſtraint, none were ever diſabled to uſe
+the Art, unleſs in ſcandalous or unlawful Work; and if an univerſal Liberty were once permitted, ſuch practice would quickly increaſe, and would be even beyond the Power of any Go<g ref="char:EOLhyphen"/>vernment
+to controle.</p>
+            <p>
+               <hi>Object.</hi> Penalties have been exacted, and many Perſons have been rigorouſly Proſecuted for Importation of Books from abroad.</p>
+            <p>
+               <hi>Anſw.</hi> It's true that Prohibited Books have been ſeized, and the ſmall Penalties ſometimes taken, but <hi>lawfully, regularly, mildly,</hi> and that only from incorrigible <hi>Pirats;</hi> and the
+Charge generally hath been greater than the Profit of ſuch Proſecutions, through the ſmalneſs of the demanded Forfeitures. And the Caſe which was moſt complained of, was that of
+Mr. <hi>Jekyl,</hi> who Imported Foreign Prints, to the damage of Engliſh-men's Property; and that was adjudged by the Reverend the <hi>L. C. J. Hales,</hi> and this his Judgment did command a
+great ſubmiſſion to the Law almoſt ever ſince.</p>
+            <p>
+               <hi>Object.</hi> That Books may be had cheaper from <hi>Holland,</hi> and therefore not to be Prohibited, for the Subject may be ſupplied from thence with more eaſe, and the Cuſtoms advanced.</p>
+            <p>
+               <hi>Anſw.</hi> As to the Subject, the Stat. 25. <hi>Hen.</hi> VIII. remains ſtill in force, by which the price of Books may be ſettled and reformed as occaſion doth or may require. And that the <hi>Dutch</hi> do in
+the trade of <hi>Printing</hi> Pirate upon us is no more than they do by moſt other Nations and they will always be able to do ſo, becauſe their Hirelings fare worſe, and work for leſs. But
+ſurely the <hi>Workmen-Printers</hi> in <hi>London</hi> have no reaſon to thank the Author of ſuch an Objection: for an <hi>Engliſh <hi>Printer</hi>
+               </hi> would be loth to change Conditions with any <hi>Printer</hi> in <hi>Holland.</hi>
+Then as to the Kings Cuſtoms being raiſed by ſuch Importation of Foreign Prints, it muſt be agreed that 'twou'd encreaſe them ſome ſmall trivial matter, but the gain would be ſo little, and
+the Balance ſo burthenſome on the other ſide, that it is eaſily demonſtrable to be no more than one Penny profit to the Crown for 5<hi>l.</hi> loſs to the <hi>Engliſh</hi> Subject. And it is to be hoped, That
+ſuch an Increaſe of the Revenue will never be acceptable to their Majeſties, or the Parliament.</p>
+            <p>And if it ſhould be admitted, That if the right of thoſe Copies which is veſted in the Crown, and thoſe that claim under it by <hi>Charter</hi> or <hi>Patent</hi> were made Publick, the Price of ſuch
+Books might poſſible be abated, Yet in thoſe Prints which are of publick Conſequence, the Exactneſs of the Impreſſion ought chiefly to be regarded, and it is the Prudence of the Government
+to lodge this Truſt in ſuch Hands, as may take care not only of a moderate Price of thoſe Books, but of a good and correct Edition of them; which, as it is performed with great Charge,
+ſo muſt it neceſſarily in ſome meaſure enhance the Value of the Books. Of this we have a clear Inſtance lately in Two <hi>Mercenary</hi> Fellows, that were <hi>Printers</hi> to the <hi>Vniverſity of</hi> Oxford.
+For when that Venerable Body thought it a work proper for them to wave their own Intereſt for the Publick good, and upon juſt expectation of correct Editions, had given way to the Printing
+many thouſand Bibles, with deſign to abate the general Price of them in this Nation, at the loſs of their own Private Advantage; they found that Bibles were not only Printed on ill Paper and
+<hi>worſe</hi> Letter, and were ſcarce <hi>legible</hi> at firſt, and in a ſhort time torn and worn out; but were <hi>falſly</hi> and <hi>ſcandalouſly</hi> let forth, with Omiſſions of many Material Paſſages, with the change of
+Negatives into Affirmatives, with many Thouſand Faults and Errata's, to the great Prejudice of Religion, and the Diſhonour of that Famous <hi>Vniverſity.</hi> And when one of thoſe Under<g ref="char:EOLhyphen"/>takers
+was charg'd with breach of Truſt in Printing ſuch a <hi>Common-Prayer-Book</hi> as could not be read, he fairly anſwered, <q>
+                  <hi>That all Perſons ought to have it by heart, and it was no mat<g ref="char:EOLhyphen"/>ter
+whether it was read or not ſo it was worn out in their hands.</hi>
+               </q> When this Anſwer was not fully ſatisfactory, and no Amendment was to be expected from a Man of thoſe Principles.
+The <hi>vniverſity</hi> in general, and particularly moſt of the <hi>Governors</hi> thereof, thought it neceſſary for the Publick good and their own Honour, not to renew the Licence, which was then
+determined, to thoſe who had ſo plainly abus'd it, but generouſly to refuſe ſuch Endearments as were liberally offer'd to effect ſo baſe and ſcandalous a Deſign.</p>
+            <p>And at the ſame time it was the Prudence of that Body not to encourage a Monopoly, by granting that Licence to the King's Printers, who had a concurrent Right of Printing
+Bibles with the Univerſity; but to the Company of <hi>Stationers,</hi> who claim'd no right in this kind, but under the Univerſity, and would be obliged in Intereſt to under-ſell the King's Printers.
+The like effectual Care was expreſly taken in the Agreement for moderating the Price of Bibles for the future; for imploying of all the Families formerly maintain'd by Printing in the Uni<g ref="char:EOLhyphen"/>verſity;
+for buying off all the imperfect Books of the former Undertakers, though <hi>fraudulently</hi> and <hi>ſurreptitiouſly</hi> begun: Inſomuch that no Colour of Exception to the Agreement, either
+in point of Right or Honour, or indeed Favour was left, but the open denial of many of the Articles of it, which as ſoon as read carry in them a Confutation of the Charge. And certain
+it is, That thoſe Calumnies will gain credit only with thoſe that have not the happineſs to know the Character of the Perſons abus'd, nor the unhappineſs to be unacquainted with the
+Temper and Honeſty of the Libellers.</p>
+            <p>And as to the Bill for Confirmation of the Liberties of the Univerſity—Whoever reads it will find a <hi>Saving</hi> to the Intereſt of all <hi>Private</hi> Perſons; ſo that the Invaſion of any <hi>Private</hi> Right
+of Copies can be no more compaſs'd thereby than 'twas deſign'd.</p>
+            <p>All Patents, granted to any Perſons or Bodies are not ſecur'd but ſav'd, in this Act of Parliament. They ſtill reſt upon their own Bottom, which was good in Law before the Act of Parli<g ref="char:EOLhyphen"/>ament,
+and is only left ſo by it.</p>
+            <p>All thoſe Patents are not properly Monopolies whereby common Right is taken away, and lodg'd in particular Perſons, but are Aſſignments only of the King's Intereſt in thoſe Copies to
+private Purchaſers that claim under him. For if thoſe Patents were determin'd or vacated, <hi>Common-Prayer Books, Bibles, Pſalters</hi> and <hi>Teſtaments</hi> would not, as is vainly imagined, be of Com<g ref="char:EOLhyphen"/>mon
+Right, but the Ownerſhip would remain in the King, not only as they are Books of publick Influence, and ſubjected to his Care; but as they were Tranſlated and Printed at his Charge
+and by his Command, and cannot be claim'd by any other Proprietor whatſoever.</p>
+            <p>In ſhort, theſe Effects will follow the Expiration or Diſcontinuance of this Act, <hi>viz.</hi>
+            </p>
+            <p>I. A Neceſſity upon the Government to invent, contrive, and uſe ſtrains of Law and Power for the Diſcovery and Suppreſſion of Libels.</p>
+            <p>II. The Increaſe of numberleſs Law-ſuits, and Queſtions about Property in Copies, and Piracy thereupon. And</p>
+            <p>III. The Impoveriſhment and Ruine of Hundreds of <hi>Engliſh</hi> Families, and the enriching of the <hi>Dutch</hi> Printers and Bookſellers, by the free Importatin of their Prints.</p>
+            <p>
+               <hi>All which are humbly ſubmitted to the Conſideration of the PARLIAMENT.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
